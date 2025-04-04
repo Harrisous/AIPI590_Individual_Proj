@@ -12,6 +12,7 @@ Model source:
 yolov8s_best.pt (inference time: 3s) https://github.com/Yusuf-ozen/Yolov8_Fire_Detection.git
 yolov8s_.pt (inference time: 1s) https://github.com/salim4n/Fire_Detection.git
 
+Wiring: https://app.cirkitdesigner.com/project/62b2e3c6-e88a-4f61-8328-c9522a157c0a
 '''
 import RPi.GPIO as GPIO
 from lcd_i2c import LCD_I2C
